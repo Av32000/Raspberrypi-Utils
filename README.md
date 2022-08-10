@@ -34,3 +34,7 @@ Temp_Check (`temp_check.sh`) is a bash script to visualize the temperature of yo
 ```
 
 ## Demonstation
+
+
+https://user-images.githubusercontent.com/59660601/183860961-924c2dd2-0684-4447-95d6-5b0974342ddd.mp4
+
